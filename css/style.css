@@ -367,6 +367,7 @@ h2 {
         font-size: 1em;
         line-height: 50px;
         padding-left: 0.5em;
+        font-weight: bold;
     }
 
     .cal .time {
