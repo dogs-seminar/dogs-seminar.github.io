@@ -186,7 +186,7 @@ h2 {
 
 .details .abstract {
     padding-top: 15px;
-    text-align: justify;
+    text-align: left;
 }
 
 .cal {
@@ -196,7 +196,7 @@ h2 {
     text-align: center;
     border-radius: 8px;
     font-family: "URW Gothic";
-    font-weight: bold;
+    font-weight: normal;
     min-width: 150px;
     max-height: 150px;
 }
