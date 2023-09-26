@@ -185,8 +185,9 @@ h2 {
 }
 
 .details .abstract {
-    padding-top: 15px;
+    padding-top: 10px;
     text-align: left;
+    padding-bottom: 15px;
 }
 
 .cal {
