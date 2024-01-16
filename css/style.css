@@ -249,6 +249,13 @@ h2 {
 
 }
 
+.footer {
+    text-align: center;
+    margin: 20px;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 0.8em;
+}
+
 @media only screen and (max-width: 1000px) {
 
     .grouped:before {
