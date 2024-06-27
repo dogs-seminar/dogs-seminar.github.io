@@ -353,6 +353,11 @@ h2 {
         padding-bottom: 20px;
     }
 
+    #break-banner {
+        width: 90%;
+        margin: auto;
+    }
+
     #information {
         padding-left: 10%;
         padding-right: 10%;
